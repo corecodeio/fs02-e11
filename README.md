@@ -1,16 +1,6 @@
-# Scripts
+# NEW PACKAGES
 
 ```
-  $ npm init --y
-  $ npm install typescript --save-dev
-  $ npx tsc --init
-  $ npx tsc --w
-```
-
-# Test the project
-
-```
-  $ npm install
-  $ npx tsc --w
-  $ npm start
+  $ npm install uuid
+  $ npm install --save @types/uuid
 ```
